@@ -1,0 +1,11 @@
+id = "tplspec"
+name = "TPLSPEC"
+version = "0.0.1"
+schema_version = 1
+authors = ["Citorva <contact@citorva.fr>"]
+description = "TPLSPEC Language Support"
+repository = "https://github.com/citorva/zed-tplspec"
+
+[grammars.tplspec]
+repository = "https://github.com/citorva/tree-sitter-tplspec"
+commit = "80eea8624bd4fa3c6c0beeb3ca44ec53f5c1209d"
